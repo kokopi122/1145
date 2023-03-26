@@ -1,7 +1,5 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
+-- Creator: Kokopi#2002
+-- Version: 
 
 local Hub = Instance.new("ScreenGui")
 local MainGui = Instance.new("ScreenGui")
