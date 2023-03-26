@@ -35,7 +35,7 @@ local Close_2 = Instance.new("TextButton")
 --Properties:
 
 Hub.Name = "Hub"
-Hub.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Hub.Parent = game.CoreGui
 Hub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Hub.ResetOnSpawn = false
 
